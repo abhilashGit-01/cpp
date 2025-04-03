@@ -8,5 +8,6 @@ int main(){
     int e=30;
     cout<<"this is a neww feature";
     cout<<"hello"<<endl;
+    cout<<"hi";
 
 }
